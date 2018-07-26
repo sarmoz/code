@@ -1,2 +1,4 @@
 stset surv_mm, f(status == 1) scale(12) exit(60)
-stpm2 treatmeant, scale(h) df(4)
+stpm2 treatmeant, scale(h) df(5)
+
+//well done
